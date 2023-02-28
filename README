@@ -95,12 +95,3 @@ by purchase, and last by name, if rating and purchases are equal. Users are
 also sorted based on their points, or by name if points are equal. The books 
 and users are then printed with their information, and at the end, memory of
 library and user hashtables are freed.
-
-
-### Commentaries
-This homework tought me how fragile and pretentios are pointers. If not stored
-right or passed right to another structure/function, they can produce all kinds
-of errors and can really cause head aches.
-Otherwise, I think this homework is a great way to exercise and implement
-hahstables in a fun and interesting way.
-I must also appreciate that the tests and their input were much more manageable.
